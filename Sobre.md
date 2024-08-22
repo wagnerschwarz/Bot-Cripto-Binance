@@ -8,3 +8,8 @@ https://testnet.binance.vision/
 
 Para utilizar o Binance Future, usar o /indexBinanceFutureTestNet, necessário pegar a ACCESS_KEY e SECRET_KEY em:
 https://testnet.binancefuture.com/
+
+O Bot registra todas as operações de compras e venda no arquivo log.txt (caminho raiz do projeto)
+
+Dica: Para deixar rodando em segundo plano no Windows, pode configurar o arquivo botSemTela.vbs 
+(para parar a execução, você pode fechar pelo gerenciador de tarefas (programa node.exe)
