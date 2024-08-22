@@ -1,0 +1,1 @@
+start /min node "C:\Users\wagne\OneDrive\Documents\Projeto Bot Criptomoeda/index.js"
